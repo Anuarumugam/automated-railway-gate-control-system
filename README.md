@@ -149,6 +149,6 @@ EMBEDDED-SYSTEM-PROJECT/
 **Aswin Kumar V**  
 B.E. Electronics and Communication Engineering  
 Karpagam College of Engineering, Coimbatore  
-🔗 GitHub: [Aswinkumar000](https://github.com/Aswinkumar000)  
-🔗 LinkedIn: [aswinkumar-v-462075331](https://linkedin.com/in/aswinkumar-v-462075331)
+🔗 GitHub: 
+🔗 LinkedIn:
 
