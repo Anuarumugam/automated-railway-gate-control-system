@@ -150,6 +150,6 @@ ANU A
 
 B.E. Electronics and Communication Engineering  
 Karpagam College of Engineering, Coimbatore  
-🔗 GitHub: 
-🔗 LinkedIn:
+🔗 GitHub: https://github.com/Anuarumugam
+🔗 LinkedIn: https://www.linkedin.com/in/anu-a-86523a35
 
