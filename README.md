@@ -146,7 +146,8 @@ EMBEDDED-SYSTEM-PROJECT/
 
 ## 👨‍💻 Author
 
-**ANU A **  
+ANU A 
+
 B.E. Electronics and Communication Engineering  
 Karpagam College of Engineering, Coimbatore  
 🔗 GitHub: 
