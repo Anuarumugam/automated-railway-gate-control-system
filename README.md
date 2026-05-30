@@ -146,7 +146,7 @@ EMBEDDED-SYSTEM-PROJECT/
 
 ## 👨‍💻 Author
 
-**Aswin Kumar V**  
+**ANU A **  
 B.E. Electronics and Communication Engineering  
 Karpagam College of Engineering, Coimbatore  
 🔗 GitHub: 
